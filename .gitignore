@@ -1,0 +1,39 @@
+# Virtual environments & caches
+.venv
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+
+# Academic documents & PDFs
+*.docx
+*.docx.bak
+*.pdf
+A57_*
+
+# Other experiment folders & scripts
+exp11_outputs/
+seq2seq_outputs/
+build_exp11_doc.py
+build_seq2seq_doc.py
+generate_cell_comparison.py
+generate_exp11_diagram.py
+generate_exp11_screenshots.py
+generate_seq2seq_diagrams.py
+generate_seq2seq_screenshots.py
+GRU.py
+LSTM_model.py
+MLP.py
+RNN_classification.py
+seq2seq_model.py
+Basic NN.py
+activation function/
+gradient descent/
+Python libraries/
+lstm_forecast.png
