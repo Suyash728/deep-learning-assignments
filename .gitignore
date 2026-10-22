@@ -22,6 +22,7 @@ exp11_outputs/
 seq2seq_outputs/
 build_exp11_doc.py
 build_seq2seq_doc.py
+build_assignment_doc.py
 generate_cell_comparison.py
 generate_exp11_diagram.py
 generate_exp11_screenshots.py
